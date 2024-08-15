@@ -1,0 +1,3 @@
+- El punto 1 está en el archivo <count_lines.py>
+- El 2 está en el archivo <copy_content.py>
+- El 3 está en el archivo <combine_lines.py>
