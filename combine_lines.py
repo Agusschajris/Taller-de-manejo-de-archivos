@@ -1,3 +1,5 @@
+# PUNTO 3
+
 with open('w_names.txt', 'r') as file:
     w_lines = file.readlines()
 
